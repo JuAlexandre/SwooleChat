@@ -1,4 +1,5 @@
 # Swoole Chat
+https://www.swoole.co.uk/
 
 ## Installation
 ```
@@ -7,15 +8,7 @@ pecl install swoole
 Edit the `php.init` file and add the following line : `extension=swoole.so`.
 
 ## Resources
-https://www.youtube.com/watch?v=Axg4GqgAW0A
-
-https://www.youtube.com/watch?v=TTeHAsgUqYg
-
-https://www.youtube.com/watch?v=9AdssT5Hw08
-
-https://www.youtube.com/watch?v=GnbBzGizpow
-
-https://www.youtube.com/watch?v=8v6b2gwzy4s
+https://www.youtube.com/watch?v=EKFizHqWeVo&list=PLYp_Kd32Xvcqip1HfoKfV7l9BjD-EViSP
 
 ## Use
 ```
