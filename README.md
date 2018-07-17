@@ -8,6 +8,8 @@ pecl install swoole
 Edit the `php.init` file and add the following line : `extension=swoole.so`.
 
 ## Resources
+Swoole Realtime Webcchat By __5dmat-web__
+
 https://www.youtube.com/watch?v=EKFizHqWeVo&list=PLYp_Kd32Xvcqip1HfoKfV7l9BjD-EViSP
 
 ## Use
